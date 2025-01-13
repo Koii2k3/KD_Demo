@@ -86,6 +86,7 @@ The main logic is encapsulated within the `app.py` file, which includes:
 4.  **Access the App:** Open your web browser and go to the URL provided by Streamlit.
 
 ## Repository Structure
+```
 ├── app.py # Main Streamlit application file 
 ├── requirements.txt # List of Python libraries to install 
 ├── static # Folder containing static assets 
@@ -95,8 +96,9 @@ The main logic is encapsulated within the `app.py` file, which includes:
 │ ├── set10 # Folder containing 10 images 
 │ └── set15 # Folder containing 15 images 
 └── model # Folder containing pre-trained model weights 
-  ├── kdsamedata_wt.pt # KD Student model weights 
-  └── teacher_wt.pt # Teacher model weights
+├── kdsamedata_wt.pt # KD Student model weights 
+└── teacher_wt.pt # Teacher model weights
+```
 
 ## Additional Notes
 
