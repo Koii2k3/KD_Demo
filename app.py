@@ -303,7 +303,7 @@ st.markdown(
     }
     </style>
     <div class="footer">
-        2024 AI VIETNAM | Made by <a href="https://github.com/Koii2k3/GradientVanishing" target="_blank">Koii2k3</a>
+        2024 AI VIETNAM | Made by <a href="https://github.com/Koii2k3" target="_blank">Koii2k3</a>
     </div>
     """,
     unsafe_allow_html=True
